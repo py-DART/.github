@@ -2,9 +2,18 @@
 
 This is an organizational home for python tools for the Data Assimilation Research Testbed (DART)
 
+## pyDARTdiags
 
-🐍 [pyDARTdiags](https://github.com/NCAR/pyDARTdiags) - pyDARTdiags is a Python library for obsevation space diagnostics for the Data Assimilation Research Testbed.  
-🐌 [pyDARTLAB](https://github.com/NCAR/pyDARTLAB) - pyDARTLAB is a python library designed for creating and managing interactive plots for the DARTLAB tutorial.
+repo: 🐍 [pyDARTdiags](https://github.com/NCAR/pyDARTdiags) 
+  - a Python library for obsevation space diagnostics for the Data Assimilation Research Testbed.  
+
+Projects:  
+   * [Roadmap to v1](https://github.com/orgs/py-DART/projects/1)
+
+## pyDARTLAB
+
+repo: 🐌 [pyDARTLAB](https://github.com/NCAR/pyDARTLAB) 
+  - a python library designed for creating and managing interactive plots for the DARTLAB tutorial.
 
 <!--
 
